@@ -1,4 +1,11 @@
 ### Hi there 👋
+![Lidneu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LPFOXX&theme=nord&hide_title=false&hide_rank=true&show_icons=true&count_private=true&include_all_commits=true&disable_animations=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LPFOXX&theme=nord&layout=compact&langs_count=8)](https://github.com/LPFOXX)
+
+<!--
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phyahz&&theme=nord&hide_title=true&layout=compact)
+-->
 
 <!--
 **LPFOXX/LPFOXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

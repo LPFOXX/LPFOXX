@@ -1,7 +1,7 @@
 ### Hello there, I'm Lidneu
 
 
-I am a aspiring software engineer commited to learning and applying the best practices of software development to overcome evergrowing sofware engineering challenges. I am an avid learner and occasional teacher.
+I am an aspiring software engineer commited to learning and applying the best practices of software development to overcome evergrowing sofware engineering challenges. I am an avid learner and occasional teacher.
 
 I am passionate about coding and programming in general. I have a deep interest in computer graphics and the maths that support it.
 I also perform well in fullstack web development and lately I am being drawn towards embedded architectures. 
